@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+
+button {
+    height: 50px;
+    width: 50px;
+    margin: 2px;
+}
+
+#reset {
+    display: block;
+    margin-top: 10px;
+    margin-inline: auto;
+}
